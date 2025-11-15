@@ -39,7 +39,7 @@ padding:35px 10px;
   position: fixed;
   right: -10px;
   top: 0;
-left:0
+left:0;
  transition: right 0.3s ease;
 }
 
